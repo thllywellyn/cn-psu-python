@@ -9,4 +9,4 @@ Files :----
 
 1.[Introduction to Python](../main/Introduction%20to%20Python/)  
 2.[Conditional and Loops](../main/Conditional%20and%20Loops/)  
-3.
+3.[Patterns 1](../main/Patterns%201/)
